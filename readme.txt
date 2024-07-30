@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Hides from menus all post_types that have a status other than published.
 
 == Description ==
-The "Astro Hide Unpublished Post Types From Menu" plugin automatically hides from WordPress menus all post types and pages, including custom post types such as WooCommerce products, that have a status other than "published." This feature is useful as it prevents page not found errors (404 errors) for unpublished posts and saves the site administrator time in updating menu items if the post type is updated with a draft, pending, future, private or trash status.
+The "Astro Hide Unpublished Post Types From Menu" plugin automatically hides from WordPress menus all post types and pages, including custom post types such as WooCommerce products, that have a status other than "published". This feature is useful as it prevents page not found errors (404 errors) for unpublished posts and saves the site administrator time in updating menu items if the post type is updated with a draft, pending, future, private or trash status.
 
 == Installation ==
 1. Upload the `astro-hide-unpublished-post-types` folder to the `/wp-content/plugins/` directory.
